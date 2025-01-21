@@ -1,0 +1,1 @@
+UPDATE students SET email = "ellie.shannon@kellogg.northwestern.edu"
